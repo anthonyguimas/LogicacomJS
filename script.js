@@ -40,5 +40,3 @@ if (cidade === Sim) {
 
 alert(nomeTurista);
 */
-
-//TESTE
